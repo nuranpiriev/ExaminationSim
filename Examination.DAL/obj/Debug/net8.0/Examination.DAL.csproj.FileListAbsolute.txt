@@ -1,0 +1,15 @@
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\bin\Debug\net8.0\Examination.DAL.deps.json
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\bin\Debug\net8.0\Examination.DAL.runtimeconfig.json
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\bin\Debug\net8.0\Examination.DAL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\bin\Debug\net8.0\Examination.DAL.pdb
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.sourcelink.json
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\refint\Examination.DAL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.pdb
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\Examination.DAL.genruntimeconfig.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.DAL\obj\Debug\net8.0\ref\Examination.DAL.dll

@@ -1,0 +1,16 @@
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\bin\Debug\net8.0\Examination.BL.deps.json
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\bin\Debug\net8.0\Examination.BL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\bin\Debug\net8.0\Examination.BL.pdb
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\bin\Debug\net8.0\Examination.DAL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\bin\Debug\net8.0\Examination.DAL.pdb
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.sourcelink.json
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examinat.4E2813C9.Up2Date
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\refint\Examination.BL.dll
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\Examination.BL.pdb
+C:\Users\Classtime\source\repos\ExaminationSim\Examination.BL\obj\Debug\net8.0\ref\Examination.BL.dll
